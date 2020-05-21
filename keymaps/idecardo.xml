@@ -1,0 +1,54 @@
+<keymap version="1" name="idecardo" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.Timeline.Update" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoRelated" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="GotoTest" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QRefresh" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
